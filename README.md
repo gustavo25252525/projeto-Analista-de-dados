@@ -1,13 +1,13 @@
 # projeto-Analista-de-dados
 Repositorio para desenvolvimento de projetos relacionado a análise de dados
 
-# 🧮 Calculadora Inteligente & Proporcional
+# Calculadora Inteligente & Proporcional
 
 Este projeto é uma ferramenta de terminal desenvolvida para facilitar cálculos do dia a dia, desde operações aritméticas simples até regras de três (proporções diretas e inversas). O sistema foi projetado com foco em **experiência do usuário** e **organização de dados**.
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 Para facilitar o uso, o projeto conta com um script de automação Shell (`.sh`) que prepara o ambiente Linux para você.
 
