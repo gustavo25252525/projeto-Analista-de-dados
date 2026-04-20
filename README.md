@@ -13,13 +13,13 @@ python3 calculadora.py
 Passo 2: Conceda permissão de execução
 Antes de rodar um script no Linux, você precisa dar a ele a permissão de execução usando o comando de permissões. No terminal, navegue até a pasta onde o arquivo está e digite:
 
-Bash
-chmod +x calculadora.sh
+# Bash
+# chmod +x calculadora.sh
 Passo 3: Execute o script
 Como o script utiliza o comando sudo para instalar pacotes, você precisará executá-lo com privilégios de administrador. Execute:
 
-Bash
-sudo ./calculadora.sh
+# Bash
+# sudo ./calculadora.sh
 (O terminal pedirá a sua senha de usuário para confirmar a instalação dos pacotes).
 
 2. Estrutura e Explicação do Código Python (calculadora.py)
